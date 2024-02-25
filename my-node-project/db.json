@@ -1,0 +1,24 @@
+{
+  "titulosVero": [
+    {
+      "title": "La Ladrona de Libros",
+      "content": "La historia de una niña valiente que sobrevive a la Segunda Guerra Mundial",
+      "author": "Markus Zusak",
+      "id": 1
+    },
+
+    {
+      "title": "Los escritores de la libertad",
+      "content": "La historia de una profesora que cambia la vida de sus estudiantes",
+      "author": "Erin Gruwell",
+      "id": 2
+    },
+
+    {
+      "title": "Cadena de favores",
+      "content": "La historia de un niño que cambia la vida de sus compañeros de clase",
+      "author": "Catherine Ryan Hyde",
+      "id": 3
+    }
+  ]
+}

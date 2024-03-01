@@ -1,0 +1,45 @@
+"""Ejercicio Nro 5
+Usando f-string trabaja en el siguiente ejercicio:
+
+Se tomaron datos sobre un hábitat para osos panda. Se desea realizar un informe sobre los resultados medidos. Se contabilizarán los especímenes entre macho y hembra, y el total de los mismos. Se debe validar que se ingresó correctamente el total de especímenes.
+
+La reserva debe contar con un mínimo de 30 especímenes de cada sexo de la especie para garantizar su aptitud.
+
+Asímismo, podemos estimar que cada año, una hembra puede concebir 2 crías.
+
+Posteriormente obtendremos una salida con el siguiente formato.
+
+Sistema de Medición de Aptitud de Reserva
+-----------------------------------------
+
+Ingrese el nombre de la reserva: LIFE-3411
+Ingrese la cantidad de machos: 34
+Ingrese la cantidad de hembras: 60
+Ingrese la cantidad de años que desea proyectar: 3
+
+
+En la reserva natural LIFE-3411 se cuentan con los siguientes especímenes de osos panda:
+
+Macho: 34
+Hembra: 60
+Total: 104
+
+Validación de conteo: True
+
+Cumplimiento de requisitos mínimos de la reserva: True
+
+Dentro de 3 años se estima que habrán 360 crías con la población inicial.
+El usuario debe ingresar la cantidad de cada uno, así como los años que queremos calcular la cantidad proyectada de crías.
+
+Nota: Para obtener un booleano resultante de dos condiciones podemos utilizar el siguiente código.
+
+cantidad_machos = 34
+cantidad_hembras = 33
+cond_1 = cantidad_machos >= 30
+cond_2 = cantidad_hembras >= 30
+print(f"Se cumplen ambas condiciones: {cond_1 and cond_2}")
+Salida:
+
+True
+"""
+
